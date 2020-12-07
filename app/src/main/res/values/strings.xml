@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">lememer</string>
+    <string name="signuptext">By signing up, you agree to our
+        <font color="#99000000">Terms , Data \n Policy and Cookies Policy</font>
+    </string>
+    <string name="logintext">Don\'t have an account ? <font color="#0000FF">Sign Up</font></string>
+    <string name="forgettext">forget password ?</string>
+    <string name="_home">Home</string>
+    <string name="_add_post">Add Post</string>
+    <string name="_profile">Profile</string>
+    <string name="noti">Notification</string>
+    <string name="followtextbutton">follow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

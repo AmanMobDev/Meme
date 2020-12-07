@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "710452276393",
+    "firebase_url": "https://lememer-55627.firebaseio.com",
+    "project_id": "lememer-55627",
+    "storage_bucket": "lememer-55627.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710452276393:android:acd1d0f91fbc1208280db8",
+        "android_client_info": {
+          "package_name": "com.migdev.meme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710452276393-1qd11t3ng46jbfuu4qkanfggkf5ne9fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUjgvQfxfIQ_srjnWnrJpvWZw_bmJeSH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710452276393-1qd11t3ng46jbfuu4qkanfggkf5ne9fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

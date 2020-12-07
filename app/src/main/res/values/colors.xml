@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#DCDCDC</color>
+
+
+    <color name="bottomBarBGColor" >#000</color>
+    <color name="placeColor" >#B5B5B5</color>
+    <color name="bgPlaceColor" >#D6D6D6</color>
+
+    <color name="black" >#000</color>
+    <color name="transparent" >#94000000</color>
+    <color name="blue" >#2196F3</color>
+    <color name="imagebordercolor" >#0087CC</color>
+    <color name="linktext" >#5973FF</color>
+    <color name="white" >#FFF</color>
+    <color name="red" >#FD0000</color>
+    <color name="editProfileBg" >#FF346E</color>
+
+    <color name="bgColor">#99000000</color>
+    <color name="textColor">#6E6E6E</color>
+</resources>
